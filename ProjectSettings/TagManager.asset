@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Paddle
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fundo
+    uniqueID: 3793427735
+    locked: 0
+  - name: 1
+    uniqueID: 676018349
+    locked: 0
+  - name: 2
+    uniqueID: 2096880155
+    locked: 0
+  - name: 3
+    uniqueID: 1771835535
+    locked: 0
+  - name: 4
+    uniqueID: 2940605625
+    locked: 0
